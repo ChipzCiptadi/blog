@@ -1,0 +1,14 @@
+baseURL = 'https://blog.chipzciptadi.com/'
+languageCode = 'en-us'
+title = 'Ciptadi Blog'
+
+theme = "anubis"
+
+[taxonomies]
+tags = "tags"
+
+[params]
+author = "Ciptadi"
+email = "chipz.ciptadi@gmail.com"
+dateFormat = "January 2, 2006"
+style = "auto"
