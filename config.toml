@@ -7,6 +7,13 @@ theme = "anubis"
 [taxonomies]
 tags = "tags"
 
+[[menu.main]]
+identifier = "archive"
+name = "Archive"
+title = "Archive"
+url = "/posts/"
+weight = "0"
+
 [params]
 author = "Ciptadi"
 email = "chipz.ciptadi@gmail.com"
